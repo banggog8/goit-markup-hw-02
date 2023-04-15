@@ -1,0 +1,162 @@
+body {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+}
+
+.header-main {
+  background-color: #fff;
+}
+
+.web {
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 21px;
+    
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4D5AE5;
+}
+
+.studio {
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 21px;
+    
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #2E2F42;
+}
+
+nav ul li a {
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+address ul li a {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+/* Main Hero*/
+main{
+    background-color: #E5E5E5;
+ }
+
+/* Section 1 */
+.main-hero {
+  background-color: #2e2f42;
+}
+
+.solutions {
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 60px;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
+
+[type="button"] {
+  background-color: #4d5ae5;
+}
+.order-btn {
+  color: #fff;
+}
+
+/* //  Section 1 */
+
+/* Section 2 */
+
+
+section ul li h3 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+section ul li p {
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+/* //Section 2 */
+
+/* Section 3 */
+
+section h2 {
+  font-size: 36px;
+  line-height: 40px;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+
+/* //Section 3 */
+
+/* Section 4 */
+
+section h2 {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 40px;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+
+section h3 {
+  font-size: 20px;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+section p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+footer {
+    background: #2E2F42;
+}
+
+.studio2{
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 21px;
+
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #F4F4FD;
+}
+
+footer p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #F4F4FD;
+}
+
