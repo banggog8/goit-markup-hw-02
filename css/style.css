@@ -1,6 +1,3 @@
-:root{
-  
-}
 
 body {
   font-family: "Roboto";
@@ -8,10 +5,8 @@ body {
   font-style: normal;
   font-weight: 500;
   background-color: #FFFFFF;
-  color: #434455;
+  
 }
-
-
 
 .header-main {
   background-color: #fff;
@@ -63,7 +58,7 @@ main{
  }
 
 /* Section 1 */
-.main-hero {
+.main_hero {
   background-color: #2e2f42;
 }
 
@@ -73,7 +68,7 @@ main{
   line-height: 60px;
   text-align: center;
   letter-spacing: 0.02em;
-  color: #ffffff;
+  color: #fff;
 }
 
 [type="button"] {
@@ -86,7 +81,9 @@ main{
 /* //  Section 1 */
 
 /* Section 2 */
-
+.features{
+  background: #E5E5E5;
+}
 
 section ul li h3 {
   font-weight: 500;
@@ -106,7 +103,10 @@ section ul li p {
 /* //Section 2 */
 
 /* Section 3 */
-
+.actions{
+  background: #E5E5E5;
+}
+ 
 section h2 {
   font-size: 36px;
   line-height: 40px;
@@ -119,6 +119,10 @@ section h2 {
 /* //Section 3 */
 
 /* Section 4 */
+
+.team{
+  background: #F4F4FD;
+}
 
 section h2 {
   font-weight: 700;
