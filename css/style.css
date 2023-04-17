@@ -47,14 +47,14 @@ body {
   text-decoration: none;
 }
 
-nav ul li a {
+.menu-nav {
   font-size: 16px;
   line-height: 24px;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
 
-address ul li a {
+.address {
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
