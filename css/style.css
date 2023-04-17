@@ -81,8 +81,17 @@ body {
   color: #fff;
 }
 
-[type="button"] {
+.button {
   background-color: #4d5ae5;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.04em;
+  color: #FFFFFF;
 }
 .order-btn {
   color: #fff;
