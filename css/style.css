@@ -19,7 +19,7 @@ body {
 
 .web-studio {
   text-decoration: none;
-  font-family: "Raleway";
+  font-family: "Raleway", sans-serif;
   font-weight: 800;
   font-size: 18px;
   line-height: 21px;
