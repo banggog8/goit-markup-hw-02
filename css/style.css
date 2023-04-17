@@ -1,23 +1,20 @@
-:root{
-/* Fonts */
+:root {
+  /* Fonts */
 
-
-/* Colors */
-
+  /* Colors */
 }
 
 body {
+  /* font-family: monospace; */
   background-color: #fff;
   color: #434455;
   font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 500;
-  
 }
 
 .header-main {
   background-color: #fff;
-  
 }
 
 .web {
@@ -115,6 +112,9 @@ section ul li p {
 }
 
 section h2 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
   font-size: 36px;
   line-height: 40px;
   text-align: center;
@@ -132,6 +132,8 @@ section h2 {
 }
 
 section h2 {
+  font-family: "Roboto";
+  font-style: normal;
   font-weight: 700;
   font-size: 36px;
   line-height: 40px;
@@ -179,6 +181,10 @@ footer p {
   line-height: 24px;
   letter-spacing: 0.02em;
   color: #f4f4fd;
+}
+
+.list{
+  list-style: none;
 }
 
 /* Portfolio */
