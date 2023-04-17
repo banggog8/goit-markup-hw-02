@@ -1,13 +1,17 @@
 :root{
+/* Fonts */
+--font-family: "Roboto", sans-serif;
+--font-style: normal;
+--font-weight: 500;
 
+/* Colors */
+--background-color: #ffffff;
+--color: #434455;
 }
 
 body {
-  font-family: "Roboto", sans-serif;
-  font-style: normal;
-  font-weight: 500;
-  background-color: #ffffff;
-  color: #434455;
+  background-color: var(--background-color)
+  
 }
 
 .header-main {
