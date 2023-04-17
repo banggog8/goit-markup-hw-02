@@ -30,7 +30,7 @@ body {
   text-transform: uppercase;
   color: #4d5ae5;
 }
-.link{
+.link {
   text-decoration: none;
 }
 
@@ -46,8 +46,6 @@ body {
   text-transform: uppercase;
   color: #2e2f42;
 }
-
-
 
 nav ul li a {
   font-size: 16px;
