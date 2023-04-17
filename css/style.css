@@ -62,14 +62,14 @@ body {
   color: #2e2f42;
 }
 
-/* Main Hero*/
-main {
+/* Main */
+.main_content{
   background-color: #e5e5e5;
 }
 
 /* Section 1 */
 .main_hero {
-  background-color: #2e2f42;
+  background: #2E2F42;
 }
 
 .solutions {
@@ -87,15 +87,15 @@ main {
 .order-btn {
   color: #fff;
 }
-
 /* //  Section 1 */
 
+/* Features */
 /* Section 2 */
 .feature {
   background: #e5e5e5;
 }
 
-section ul li h3 {
+.main_features {
   font-weight: 500;
   font-size: 20px;
   line-height: 24px;
@@ -103,7 +103,7 @@ section ul li h3 {
   color: #2e2f42;
 }
 
-section ul li p {
+.main_parag {
   font-size: 16px;
   line-height: 24px;
   letter-spacing: 0.02em;
@@ -111,7 +111,9 @@ section ul li p {
 }
 
 /* //Section 2 */
+ /* //Features  */
 
+ /* Actions */
 /* Section 3 */
 .actions {
   background: #e5e5e5;
