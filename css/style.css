@@ -18,7 +18,6 @@ body {
 }
 
 .web-studio {
-  text-decoration: none;
   font-family: "Raleway", sans-serif;
   font-weight: 800;
   font-size: 18px;
@@ -29,9 +28,6 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
-}
-.link {
-  text-decoration: none;
 }
 
 .web_studio {
@@ -45,6 +41,10 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #2e2f42;
+}
+
+.link {
+  text-decoration: none;
 }
 
 nav ul li a {
