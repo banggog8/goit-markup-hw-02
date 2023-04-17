@@ -18,10 +18,11 @@ body {
 }
 
 .web {
-  font-family: "Raleway", sans-serif;
+  text-decoration: none;
+  font-family: "Raleway";
   font-weight: 800;
   font-size: 18px;
-  line-height: 1.17;
+  line-height: 21px;
 
   display: flex;
   align-items: center;
@@ -31,10 +32,10 @@ body {
 }
 
 .studio {
-  font-family: "Raleway", sans-serif;
+  font-family: "Raleway";
   font-weight: 800;
   font-size: 18px;
-  line-height: 1.17;
+  line-height: 21px;
 
   display: flex;
   align-items: center;
