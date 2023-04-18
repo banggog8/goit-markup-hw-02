@@ -55,17 +55,10 @@ body {
 }
 
 /* Menu1 */
-.menu_studio{
+.menu{
 color: #2e2f42;
 }
 
-.menu_portfolio{
-
-}
-
-.menu_contacts{
-
-}
 .address {
   font-style: normal;
   font-weight: 400;
