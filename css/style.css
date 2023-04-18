@@ -163,13 +163,17 @@ color: #2e2f42;
 .our_team {
   font-family: "Roboto";
   font-style: normal;
-  font-weight: 700;
+  font-weight: 500;
   font-size: 36px;
-  line-height: 40px;
+  line-height: 1.11;
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
+}
+
+.team_items{
+  background-color: #FFFFFF
 }
 
 .name_and_surname {
