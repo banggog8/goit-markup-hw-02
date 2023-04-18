@@ -2,6 +2,7 @@
   /* Fonts */
 --primary-font: "Roboto", sans-serif;
   /* Colors */
+  --color: #2e2f42;
 }
 
 body {
@@ -225,4 +226,8 @@ color: #2e2f42;
 
 .main-hero {
   background-color: #fff;
+}
+
+.studio_item{
+  color: var(--color) ;
 }
