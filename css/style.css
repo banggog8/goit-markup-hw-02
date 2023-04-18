@@ -1,11 +1,11 @@
 :root {
   /* Fonts */
-
+--primary-font: "Roboto", sans-serif;
   /* Colors */
 }
 
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: var(--primary-font);
   background-color: #fff;
   color: #434455;
   font-style: normal;
