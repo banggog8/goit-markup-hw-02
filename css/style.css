@@ -83,6 +83,14 @@ color: #2e2f42;
   background: #2E2F42;
 }
 
+.all_button{
+  font-family: var(--primary-font);
+  font-weight: 500;
+  font-size: 16px
+  
+  
+}
+
 .solutions {
   font-weight: 700;
   font-size: 56px;
