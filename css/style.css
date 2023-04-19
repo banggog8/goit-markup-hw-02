@@ -240,6 +240,6 @@ color: #2e2f42;
   background-color: #fff;
 }
 
-.studio_item{
-  color: var(--color2) ;
+.item_list{
+  color: var(--color1);
 }
