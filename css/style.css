@@ -243,3 +243,7 @@ color: #2e2f42;
 .item_list{
   color: var(--color1);
 }
+
+.mail_item{
+  color: #434455;
+}
