@@ -63,7 +63,7 @@ body {
 color: #2e2f42;
 }
 
-.menu :hover, :focus{
+.menu :hover, .menu :focus{
   color: #404bbf;
 }
 
@@ -102,6 +102,7 @@ color: #2e2f42;
   background-color: #F4F4FD;
   cursor: pointer;
 }
+
 
 .solutions {
   font-weight: 700;
