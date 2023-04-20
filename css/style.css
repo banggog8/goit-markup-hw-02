@@ -5,7 +5,7 @@
 /* Colors */
   --color1: #2e2f42 ;
   --color2:#4d5ae5;
-  --header-color: #404bbf;
+  --menu-color: #404bbf;
 } 
 
 body {
@@ -64,9 +64,9 @@ body {
 color: #2e2f42;
 }
 
-.menu :hover, 
-.menu :focus {
-  color:var(--header-color);
+.menu:hover, 
+.menu:focus {
+  color:var(--menu-color);
 }
 
 
