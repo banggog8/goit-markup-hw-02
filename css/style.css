@@ -84,6 +84,11 @@ color: #2e2f42;
   color: #434455;
 }
 
+.contacts_info:hover,
+.contacts_info:focus{
+  color: var(--menu-color);
+}
+
 /* Main */
 .main_content{
   background-color: #e5e5e5;
