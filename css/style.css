@@ -63,13 +63,10 @@ body {
 color: #2e2f42;
 }
 
-.menu :focus{
+.menu :hover, :focus{
   color: #404bbf;
 }
 
-.menu :hover{
-color: #404bbf;
-}
 
 
 .address {
