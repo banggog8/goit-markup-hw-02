@@ -138,7 +138,7 @@ color: #2e2f42;
 
 .button:hover,
 .button:focus{
-  color: var(--menu-color);
+  background-color: #404BBF;
 }
 
 .order-btn {
