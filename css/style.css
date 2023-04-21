@@ -271,7 +271,7 @@ color: #2e2f42;
 
 .item_list:hover,
 .item_list:focus{
-color:#404bbf;
+color:var(--menu-color);
 }
 
 .mail_item{
