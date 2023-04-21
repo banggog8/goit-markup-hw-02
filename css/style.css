@@ -269,6 +269,11 @@ color: #2e2f42;
   color: var(--color1);
 }
 
+.item_list:hover,
+.item_list:focus{
+color: var(--menu-color);
+}
+
 .mail_item{
   color: #434455;
 }
