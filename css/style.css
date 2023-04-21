@@ -111,6 +111,12 @@ color: #2e2f42;
   cursor: pointer;
 }
 
+.all_button:hover,
+.all_button:focus{
+  color: #FFFFFF;
+  background-color: #404BBF;
+}
+
 
 .solutions {
   font-weight: 700;
