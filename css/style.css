@@ -6,6 +6,7 @@
   --color1: #2e2f42 ;
   --color2:#4d5ae5;
   --menu-color: #404bbf;
+  
 } 
 
 body {
@@ -126,12 +127,20 @@ color: #2e2f42;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
+  cursor: pointer;
+  
 
   display: flex;
   align-items: center;
   letter-spacing: 0.04em;
   color: #FFFFFF;
 }
+
+.button:hover,
+.button:focus{
+  color: var(--menu-color);
+}
+
 .order-btn {
   color: #fff;
 }
