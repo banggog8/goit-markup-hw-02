@@ -10,6 +10,8 @@
 } 
 
 body {
+  font-family: "Raleway", sans-serif;
+  font-style: normal;
   font-family: var(--primary-font);
   background-color: #fff;
   color: #434455;
@@ -27,8 +29,7 @@ body {
 }
 
 .web-studio {
-  font-family: "Raleway", sans-serif;
-  font-style: normal;
+  
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
