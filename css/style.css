@@ -13,8 +13,7 @@ body {
   font-family: var(--primary-font);
   background-color: #fff;
   color: #434455;
-  font-style: normal;
-  font-weight: 500;
+
 }
 
 .link {
@@ -32,8 +31,6 @@ body {
   font-size: 18px;
   line-height: 1.17;
 
-  display: flex;
-  align-items: center;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: var(--color2);
@@ -45,8 +42,6 @@ body {
   font-size: 18px;
   line-height: 1.17;
 
-  display: flex;
-  align-items: center;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #2e2f42;
@@ -54,9 +49,6 @@ body {
 
 
 .menu-nav {
-  font-size: 16px;
-  line-height: 24px;
-  letter-spacing: 0.02em;
   color: #2e2f42;
 }
 
@@ -92,7 +84,7 @@ color: #2e2f42;
 
 /* Main */
 .main_content{
-  background-color: #e5e5e5;
+  
 }
 
 /* Section 1 */
@@ -156,7 +148,7 @@ color: #2e2f42;
 /* Features */
 /* Section 2 */
 .feature {
-  background: #e5e5e5;
+  
 }
 
 .main_features {
@@ -206,7 +198,7 @@ color: #2e2f42;
 }
 
 .our_team {
-  font-family: "Roboto";
+  
   font-style: normal;
   font-weight: 700;
   font-size: 36px;
