@@ -10,17 +10,20 @@
 }
 body {
   margin: auto;
-  font-family: "Raleway", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-family: var(--primary-font);
   background-color: var(--fff);
   color: var(--p_text);
 }
+
 .link {
   text-decoration: none;
 }
 .header-main {
   background-color: var(--fff);
+  font-family: "Raleway", sans-serif;
+  line-height: 1.17;
 }
 .web-studio {
   display: flex;
