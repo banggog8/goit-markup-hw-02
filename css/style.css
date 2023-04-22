@@ -33,37 +33,29 @@ body {
   font-size: 18px;
   line-height: 1.17;
   
-  display: flex;
-  align-items: center;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: var(--color2);
 }
 
 .web_studio {
-  font-family: "Raleway", sans-serif;
-  font-weight: 800;
-  font-size: 18px;
-  line-height: 1.17;
- 
-  display: flex;
-  align-items: center;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
   color: #2e2f42;
 }
 
 
 .menu-nav {
-  font-size: 16px;
-  line-height: 24px;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
+  
+  
 }
 
 /* Menu1 */
 .menu {
-color: #2e2f42;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px; 
+  /* 1.5? */
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 
 .menu:hover, 
@@ -78,6 +70,7 @@ color: #2e2f42;
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
+  /* 1.5? */
   letter-spacing: 0.02em;
   color:var(--color1);
 }
@@ -157,13 +150,14 @@ color: #2e2f42;
 /* Features */
 /* Section 2 */
 .feature {
-  background: #e5e5e5; 
+  
 }
 
 .main_features {
   font-weight: 500;
   font-size: 20px;
   line-height: 24px;
+  /* 1.5? */
   letter-spacing: 0.02em;
   color: var(--color1);
 }
@@ -171,6 +165,7 @@ color: #2e2f42;
 .main_parag {
   font-size: 16px;
   line-height: 24px;
+  /* 1.5? */
   letter-spacing: 0.02em;
   color: #434455;
 }
@@ -226,6 +221,7 @@ color: #2e2f42;
   font-size: 20px;
   font-weight: 500;
   line-height: 24px;
+  /* 1.5? */
   text-align: center;
   letter-spacing: 0.02em;
   color: var(--color1);
@@ -234,6 +230,7 @@ color: #2e2f42;
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
+  /* 1.5? */
   text-align: center;
   letter-spacing: 0.02em;
   color: #434455;
@@ -247,7 +244,7 @@ color: #2e2f42;
   font-weight: 800;
   font-size: 18px;
   line-height: 21px;
-
+/* 1.5? */
   display: flex;
   align-items: center;
   letter-spacing: 0.03em;
@@ -259,6 +256,7 @@ color: #2e2f42;
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
+  /* 1.5? */
   letter-spacing: 0.02em;
   color: #f4f4fd;
 }
