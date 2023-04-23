@@ -80,14 +80,13 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
-  color: var(--color2);
+  color: var(--button-color);
   background-color: var(--background-light-color);
 }
 
 .all_button:hover,
 .all_button:focus{
-  color: var(--fff);
-  background-color: var(--button-color);
+  background-color: var(--hover-link);
 }
 
 
@@ -205,6 +204,7 @@ body {
 }
 
 .studio_footer {
+  font-family: 'Raleway', sans-serif;
   color: var(--background-light-color);
 }
 .main-footer p {
