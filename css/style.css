@@ -32,7 +32,6 @@ body {
 }
 .web-studio {
   font-family: 'Raleway', sans-serif;
-  display: flex;
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
@@ -42,6 +41,7 @@ body {
 }
 .web_studio {
   color: var(--background-color);
+  
 }
 /* Menu1 */
 .menu {
@@ -206,7 +206,6 @@ body {
 }
 
 .studio_footer {
-  font-family: 'Raleway', sans-serif;
   color: var(--background-light-color);
 }
 .main-footer p {
