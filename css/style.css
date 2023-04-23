@@ -31,6 +31,7 @@ body {
   line-height: 1.17;
 }
 .web-studio {
+  font-family: 'Raleway', sans-serif;
   display: flex;
   font-weight: 800;
   font-size: 18px;
